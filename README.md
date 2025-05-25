@@ -1,4 +1,4 @@
-# whazlansaja
+# App WhAzlansaja
 
 UAS Mobile 2 bersama azlansaja
 
