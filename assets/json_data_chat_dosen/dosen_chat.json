@@ -11,6 +11,14 @@
             {
                 "alur": 1,
                 "pesan": "Selamat pagi pak, saya ingin bertanya soal tugas."
+            },
+            {
+                "alur": 1,
+                "pesan": "Apakah tugasnya dikumpulkan besok?"
+            },
+            {
+                "alur": 0,
+                "pesan": "Tidak nak, batas akhir adalah lusa."
             }
         ]
     },
@@ -18,36 +26,12 @@
         "id": 2,
         "nama": "Badrul Anwar, S.E., S.Kom., M.Kom.",
         "gambar": "assets/gambar_dosen/Badrul Anwar, S.E., S.Kom., M.Kom..jpg",
-        "histori_chat": [
-            {
-                "alur": 0,
-                "pesan": "Sudah submit tugasnya?"
-            },
-            {
-                "alur": 1,
-                "pesan": "Sudah pak, saya kirim tadi pagi."
-            }
-        ]
+        "histori_chat": []
     },
     {
         "id": 3,
         "nama": "Dr. Dicky Nofriansyah, S.Kom., M.Kom.",
         "gambar": "assets/gambar_dosen/Dr. Dicky Nofriansyah, S.Kom., M.Kom..jpg",
-        "histori_chat": [
-            {
-                "alur": 0,
-                "pesan": "Jangan lupa presentasi besok ya."
-            },
-            {
-                "alur": 1,
-                "pesan": "Siap pak, sudah saya siapkan."
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "nama": "Dr. Rudi Gunawan, S.E., M.Si.",
-        "gambar": "assets/gambar_dosen/Dr. Rudi Gunawan, S.E., M.Si..jpg",
         "histori_chat": [
             {
                 "alur": 0,
@@ -60,9 +44,28 @@
         ]
     },
     {
+        "id": 4,
+        "nama": "Dr. Rudi Gunawan, S.E., M.Si.",
+        "gambar": "assets/gambar_dosen/Dr. Rudi Gunawan, S.E., M.Si..jpg",
+        "histori_chat": [
+            {
+                "alur": 1,
+                "pesan": "Pagi pak, sudah saya siapkan apa yang kita diskusi kemaren pak."
+            },
+            {
+                "alur": 0,
+                "pesan": "Oke. Besok langsung presentasi ya."
+            },
+            {
+                "alur": 1,
+                "pesan": "iya pak."
+            }
+        ]
+    },
+    {
         "id": 5,
         "nama": "Dra. Sri Kusnasari, M.Hum.",
-        "gambar": "assets/gambar_dosen/Dra. Sri Kusnasari, M.Hum..jpg",
+        "gambar": "assets/gambar_dosen/Dra. Sri Kusnasari, M.Hum.jpg",
         "histori_chat": [
             {
                 "alur": 0,
@@ -78,16 +81,7 @@
         "id": 6,
         "nama": "Drs. Sobirin, S.H., M.Si.",
         "gambar": "assets/gambar_dosen/Drs. Sobirin, S.H., M.Si..jpg",
-        "histori_chat": [
-            {
-                "alur": 0,
-                "pesan": "Silakan konsultasi kapan saja via chat."
-            },
-            {
-                "alur": 1,
-                "pesan": "Terima kasih pak, nanti saya hubungi lagi."
-            }
-        ]
+        "histori_chat": []
     },
     {
         "id": 7,
@@ -107,7 +101,7 @@
     {
         "id": 8,
         "nama": "Hendryan Winata, S.Kom., M.Kom.",
-        "gambar": "assets/gambar_dosen/Hendryan Winata, S.Kom., M.Kom..jpg",
+        "gambar": "assets/gambar_dosen/Hendryan Winata, S.Kom., M.Kom.jpg",
         "histori_chat": [
             {
                 "alur": 0,
@@ -137,7 +131,7 @@
     {
         "id": 10,
         "nama": "Ismawardi Santoso, S.Pd., MS.",
-        "gambar": "assets/gambar_dosen/Ismawardi Santoso, S.Pd., MS..jpg",
+        "gambar": "assets/gambar_dosen/Ismawardi Santoso, S.Pd., MS.jpg",
         "histori_chat": [
             {
                 "alur": 0,
@@ -152,7 +146,7 @@
     {
         "id": 11,
         "nama": "Muhammad Dahria, S.Kom., M.Kom.",
-        "gambar": "assets/gambar_dosen/Muhammad Dahria, S.Kom., M.Kom..jpg",
+        "gambar": "assets/gambar_dosen/Muhammad Dahria, S.E., S.Kom., M.Kom..jpg",
         "histori_chat": [
             {
                 "alur": 0,
@@ -167,7 +161,7 @@
     {
         "id": 12,
         "nama": "Muhammad Syahril, S.Kom., M.Kom.",
-        "gambar": "assets/gambar_dosen/Muhammad Syahril, S.Kom., M.Kom..jpg",
+        "gambar": "assets/gambar_dosen/Muhammad Syahril, SE., M.Kom..jpg",
         "histori_chat": [
             {
                 "alur": 0,
@@ -182,7 +176,7 @@
     {
         "id": 13,
         "nama": "Mukhlis Ramadhan, S.Kom.",
-        "gambar": "assets/gambar_dosen/Mukhlis Ramadhan, S.Kom..jpg",
+        "gambar": "assets/gambar_dosen/Mukhlis Ramadhan, S.E., M.Kom..jpg",
         "histori_chat": [
             {
                 "alur": 0,
