@@ -5,4 +5,4 @@ UAS Mobile 2 bersama azlansaja
 ![App Screenshot](https://images2.imgbox.com/ca/6b/f8Mpc16i_o.png)
 
 ## Hasil Screenshots
-![App Screenshot](https://thumbs2.imgbox.com/cf/03/n25TzCeh_t.png)
+![App Screenshot](https://images2.imgbox.com/cf/03/n25TzCeh_o.png)
