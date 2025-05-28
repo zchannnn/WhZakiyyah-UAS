@@ -1,234 +1,234 @@
 [
     {
         "id": 1,
-        "full_name": "Azlan, S.Kom., M.Kom.",
-        "avatar": "assets/gambar_dosen/Azlan, S.Kom., M.Kom.jpg",
-        "messages": [
+        "name": "Azlan, S.Kom., M.Kom.",
+        "img": "assets/gambar_dosen/Azlan, S.Kom., M.Kom.jpg",
+        "details": [
             {
-                "from": 0,
+                "role": "dosen"
                 "message": "Selamat pagi, ada yang bisa saya bantu?"
             },
             {
-                "from": 1,
+                "role": "saya",
                 "message": "Selamat pagi pak, saya ingin bertanya soal tugas."
             },
             {
-                "from": 1,
+                "role": "saya",
                 "message": "Apakah tugasnya dikumpulkan besok?"
             },
             {
-                "from": 0,
+                "role": "dosen"
                 "message": "Tidak nak, batas akhir adalah lusa."
             }
         ]
     },
     {
         "id": 2,
-        "full_name": "Badrul Anwar, S.E., S.Kom., M.Kom.",
-        "avatar": "assets/gambar_dosen/Badrul Anwar, S.E., S.Kom., M.Kom..jpg",
-        "messages": []
+        "name": "Badrul Anwar, S.E., S.Kom., M.Kom.",
+        "img": "assets/gambar_dosen/Badrul Anwar, S.E., S.Kom., M.Kom..jpg",
+        "details": []
     },
     {
         "id": 3,
-        "full_name": "Dr. Dicky Nofriansyah, S.Kom., M.Kom.",
-        "avatar": "assets/gambar_dosen/Dr. Dicky Nofriansyah, S.Kom., M.Kom..jpg",
-        "messages": [
+        "name": "Dr. Dicky Nofriansyah, S.Kom., M.Kom.",
+        "img": "assets/gambar_dosen/Dr. Dicky Nofriansyah, S.Kom., M.Kom..jpg",
+        "details": [
             {
-                "from": 0,
+                "role": "dosen"
                 "message": "Sudah dapat kelompoknya?"
             },
             {
-                "from": 1,
+                "role": "saya",
                 "message": "Sudah pak, kami satu kelompok dengan Rini."
             }
         ]
     },
     {
         "id": 4,
-        "full_name": "Dr. Rudi Gunawan, S.E., M.Si.",
-        "avatar": "assets/gambar_dosen/Dr. Rudi Gunawan, S.E., M.Si..jpg",
-        "messages": [
+        "name": "Dr. Rudi Gunawan, S.E., M.Si.",
+        "img": "assets/gambar_dosen/Dr. Rudi Gunawan, S.E., M.Si..jpg",
+        "details": [
             {
-                "from": 1,
+                "role": "saya",
                 "message": "Pagi pak, sudah saya siapkan apa yang kita diskusi kemaren pak."
             },
             {
-                "from": 0,
+                "role": "dosen"
                 "message": "Oke. Besok langsung presentasi ya."
             },
             {
-                "from": 1,
+                "role": "saya",
                 "message": "iya pak."
             }
         ]
     },
     {
         "id": 5,
-        "full_name": "Dra. Sri Kusnasari, M.Hum.",
-        "avatar": "assets/gambar_dosen/Dra. Sri Kusnasari, M.Hum.jpg",
-        "messages": [
+        "name": "Dra. Sri Kusnasari, M.Hum.",
+        "img": "assets/gambar_dosen/Dra. Sri Kusnasari, M.Hum.jpg",
+        "details": [
             {
-                "from": 0,
+                "role": "dosen"
                 "message": "Materi minggu ini sudah saya upload."
             },
             {
-                "from": 1,
+                "role": "saya",
                 "message": "Baik bu, terima kasih informasinya."
             }
         ]
     },
     {
         "id": 6,
-        "full_name": "Drs. Sobirin, S.H., M.Si.",
-        "avatar": "assets/gambar_dosen/Drs. Sobirin, S.H., M.Si..jpg",
-        "messages": []
+        "name": "Drs. Sobirin, S.H., M.Si.",
+        "img": "assets/gambar_dosen/Drs. Sobirin, S.H., M.Si..jpg",
+        "details": []
     },
     {
         "id": 7,
-        "full_name": "Hendra Jaya, S.Kom., M.Kom.",
-        "avatar": "assets/gambar_dosen/Hendra Jaya, S.Kom., M.Kom..jpg",
-        "messages": [
+        "name": "Hendra Jaya, S.Kom., M.Kom.",
+        "img": "assets/gambar_dosen/Hendra Jaya, S.Kom., M.Kom..jpg",
+        "details": [
             {
-                "from": 0,
+                "role": "dosen"
                 "message": "Apakah sudah install Flutter?"
             },
             {
-                "from": 1,
+                "role": "saya",
                 "message": "Sudah pak, sedang coba-coba sekarang."
             }
         ]
     },
     {
         "id": 8,
-        "full_name": "Hendryan Winata, S.Kom., M.Kom.",
-        "avatar": "assets/gambar_dosen/Hendryan Winata, S.Kom., M.Kom.jpg",
-        "messages": [
+        "name": "Hendryan Winata, S.Kom., M.Kom.",
+        "img": "assets/gambar_dosen/Hendryan Winata, S.Kom., M.Kom.jpg",
+        "details": [
             {
-                "from": 0,
+                "role": "dosen"
                 "message": "Tugas desain UI dikumpulkan minggu ini."
             },
             {
-                "from": 1,
+                "role": "saya",
                 "message": "Oke pak, kami sedang proses."
             }
         ]
     },
     {
         "id": 9,
-        "full_name": "Iskandar Zulkarnain, S.T., M.Kom.",
-        "avatar": "assets/gambar_dosen/Iskandar Zulkarnain, S.T., M.Kom..jpg",
-        "messages": [
+        "name": "Iskandar Zulkarnain, S.T., M.Kom.",
+        "img": "assets/gambar_dosen/Iskandar Zulkarnain, S.T., M.Kom..jpg",
+        "details": [
             {
-                "from": 0,
+                "role": "dosen"
                 "message": "Bagaimana hasil praktikum kemarin?"
             },
             {
-                "from": 1,
+                "role": "saya",
                 "message": "Berhasil pak, semua fitur jalan."
             }
         ]
     },
     {
-        "id": 10,
-        "full_name": "Ismawardi Santoso, S.Pd., MS.",
-        "avatar": "assets/gambar_dosen/Ismawardi Santoso, S.Pd., MS.jpg",
-        "messages": [
+        "id": 1"dosen"
+        "name": "Ismawardi Santoso, S.Pd., MS.",
+        "img": "assets/gambar_dosen/Ismawardi Santoso, S.Pd., MS.jpg",
+        "details": [
             {
-                "from": 0,
+                "role": "dosen"
                 "message": "Silakan buka referensi dari e-book."
             },
             {
-                "from": 1,
+                "role": "saya",
                 "message": "Baik pak, akan saya baca malam ini."
             }
         ]
     },
     {
         "id": 11,
-        "full_name": "Muhammad Dahria, S.Kom., M.Kom.",
-        "avatar": "assets/gambar_dosen/Muhammad Dahria, S.E., S.Kom., M.Kom..jpg",
-        "messages": [
+        "name": "Muhammad Dahria, S.Kom., M.Kom.",
+        "img": "assets/gambar_dosen/Muhammad Dahria, S.E., S.Kom., M.Kom..jpg",
+        "details": [
             {
-                "from": 0,
+                "role": "dosen"
                 "message": "Ada pertanyaan soal project final?"
             },
             {
-                "from": 1,
+                "role": "saya",
                 "message": "Iya pak, boleh saya konsultasi besok?"
             }
         ]
     },
     {
         "id": 12,
-        "full_name": "Muhammad Syahril, S.Kom., M.Kom.",
-        "avatar": "assets/gambar_dosen/Muhammad Syahril, SE., M.Kom..jpg",
-        "messages": [
+        "name": "Muhammad Syahril, S.Kom., M.Kom.",
+        "img": "assets/gambar_dosen/Muhammad Syahril, SE., M.Kom..jpg",
+        "details": [
             {
-                "from": 0,
+                "role": "dosen"
                 "message": "Jangan lupa baca modul 4."
             },
             {
-                "from": 1,
+                "role": "saya",
                 "message": "Oke pak, terima kasih."
             }
         ]
     },
     {
         "id": 13,
-        "full_name": "Mukhlis Ramadhan, S.Kom.",
-        "avatar": "assets/gambar_dosen/Mukhlis Ramadhan, S.E., M.Kom..jpg",
-        "messages": [
+        "name": "Mukhlis Ramadhan, S.Kom.",
+        "img": "assets/gambar_dosen/Mukhlis Ramadhan, S.E., M.Kom..jpg",
+        "details": [
             {
-                "from": 0,
+                "role": "dosen"
                 "message": "Sudah coba fitur Livewire?"
             },
             {
-                "from": 1,
+                "role": "saya",
                 "message": "Baru mulai pak, lumayan seru."
             }
         ]
     },
     {
         "id": 14,
-        "full_name": "Rini Kustini, S.S., MS.",
-        "avatar": "assets/gambar_dosen/Rini Kustini, S.S., MS..jpg",
-        "messages": [
+        "name": "Rini Kustini, S.S., MS.",
+        "img": "assets/gambar_dosen/Rini Kustini, S.S., MS..jpg",
+        "details": [
             {
-                "from": 0,
+                "role": "dosen"
                 "message": "Bacaan minggu depan sudah saya kirim."
             },
             {
-                "from": 1,
+                "role": "saya",
                 "message": "Terima kasih bu, sudah saya terima."
             }
         ]
     },
     {
         "id": 15,
-        "full_name": "Saiful Nur Arif, S.E., S.Kom., M.Kom.",
-        "avatar": "assets/gambar_dosen/Saiful Nur Arif, S.E., S.Kom., M.Kom..jpg",
-        "messages": [
+        "name": "Saiful Nur Arif, S.E., S.Kom., M.Kom.",
+        "img": "assets/gambar_dosen/Saiful Nur Arif, S.E., S.Kom., M.Kom..jpg",
+        "details": [
             {
-                "from": 0,
+                "role": "dosen"
                 "message": "Kapan bisa diskusi tugas akhir?"
             },
             {
-                "from": 1,
+                "role": "saya",
                 "message": "Saya siap hari Kamis pak."
             }
         ]
     },
     {
         "id": 16,
-        "full_name": "Zulkifli Lubis, S.E., MM.",
-        "avatar": "assets/gambar_dosen/Zulkifli Lubis, S.E., MM..jpg",
-        "messages": [
+        "name": "Zulkifli Lubis, S.E., MM.",
+        "img": "assets/gambar_dosen/Zulkifli Lubis, S.E., MM..jpg",
+        "details": [
             {
-                "from": 0,
+                "role": "dosen"
                 "message": "Sudah isi kuis kehadiran?"
             },
             {
-                "from": 1,
+                "role": "saya",
                 "message": "Sudah pak, barusan saya submit."
             }
         ]
