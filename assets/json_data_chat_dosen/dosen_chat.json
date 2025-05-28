@@ -5,12 +5,12 @@
         "img": "assets/gambar_dosen/Azlan, S.Kom., M.Kom.jpg",
         "details": [
             {
-                "role": "dosen"
-                "message": "Selamat pagi, ada yang bisa saya bantu?"
-            },
-            {
                 "role": "saya",
                 "message": "Selamat pagi pak, saya ingin bertanya soal tugas."
+            },
+            {
+                "role": "dosen"
+                "message": "Selamat pagi, ada yang bisa saya bantu?"
             },
             {
                 "role": "saya",
